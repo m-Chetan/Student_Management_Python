@@ -4,6 +4,7 @@ Python Create-Update-Read-Delete GUI Student Management System
 Features
 
 Add a student
+
 Update student details
 Delete students
 Find student
